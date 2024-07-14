@@ -1,3 +1,7 @@
+# Project Description:
+
+This is my first Full Stack Application using MERN, that I have built with the reference from the Full Stack Course offered by FreeCode Camp in Youtube. This project captures the User details, and their workout Schedule. They can also add note of the particular Exercise to get motivated. It is also made responsible to various viewport devices, to enhance the user engagement.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
